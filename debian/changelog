@@ -1,3 +1,10 @@
+llvm-toolchain-7 (1:7.0.1-8ubuntu1ppa1~18.04.1) bionic; urgency=medium
+
+  * Backport from Ubuntu disco to bionic
+  * Update YamlDotNet from 3.3.0 to 6.0.0
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Fri, 29 Mar 2019 16:12:12 +0900
+
 llvm-toolchain-7 (1:7.0.1-8) unstable; urgency=medium
 
   * Fix a segfault in autopkgtest by brining
