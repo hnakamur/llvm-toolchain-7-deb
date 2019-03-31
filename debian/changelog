@@ -1,4 +1,4 @@
-llvm-toolchain-7 (1:7.0.1-8ppa1~ubuntu18.04.1) bionic; urgency=medium
+llvm-toolchain-7 (1:7.0.1+crlf.1-8ppa1~ubuntu18.04.1) bionic; urgency=medium
 
   * Backport from Ubuntu disco to bionic 
 
